@@ -75,9 +75,9 @@ export default function Home({ posts }) {
           <Link
             href="/blog"
             className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
-            aria-label="All posts"
+            aria-label="所有文章"
           >
-            All Posts &rarr;
+            所有文章 &rarr;
           </Link>
         </div>
       )}
