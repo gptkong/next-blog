@@ -1,7 +1,13 @@
 ---
-title: "自建DNS解锁流媒体"
-date: "2025-06-02"
-summary: "利用解锁服务器搭建DNS解锁流媒体"
+title: 自建DNS解锁流媒体
+date: 2025-06-02
+summary: 利用解锁服务器搭建DNS解锁流媒体
+tags:
+  - vps
+  - dns服务器
+  - dns
+  - adguardhome
+  - sniproxy
 ---
 
 ## 使用AdguardHome搭建DNS服务器
