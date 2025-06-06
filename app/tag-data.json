@@ -1,8 +1,12 @@
 {
-  "vps": 5,
+  "ss": 2,
+  "shadow-tls": 2,
+  "sing-box": 2,
+  "vps": 6,
   "dns解锁": 2,
   "优化线路": 1,
-  "sing-box": 2,
-  "shadow-tls": 2,
-  "ss": 2
+  "dns服务器": 1,
+  "dns": 1,
+  "adguardhome": 1,
+  "sniproxy": 1
 }
